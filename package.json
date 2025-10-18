@@ -11,6 +11,6 @@
     "uuid": "^13.0.0"
   },
   "scripts": {
-    "start": "node api/server.js"
+    "start": "node server.js"
   }
 }
